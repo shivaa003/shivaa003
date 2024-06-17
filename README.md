@@ -6,7 +6,15 @@
     Heyy , i am Shiva
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+    
 
+
+  <img src="https://komarev.com/ghpvc/?username=charann29&style=flat-square&color=green" alt=""/>
+
+</div display="flex">
+
+
+<div>
   
 [![](https://visitcount.itsvg.in/api?id=shivaa003&icon=0&color=1)](https://visitcount.itsvg.in)
 
