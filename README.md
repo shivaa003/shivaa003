@@ -1,14 +1,21 @@
-                                                  ## Hi, I’m SHIVA 
+<div id="header" align="center">
+    <div id="badges">
+    <a href="https://www.linkedin.com/in/charann06/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+<h1>
+    heyy , i am Shiva
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 
-
-
+  
 [![](https://visitcount.itsvg.in/api?id=shivaa003&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivaa003&theme=dark&hide_border=true)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=shivaa003&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
