@@ -8,13 +8,6 @@
   </h1>
     
 
-
-  <img src="https://komarev.com/ghpvc/?username=charann29&style=flat-square&color=green" alt=""/>
-
-</div display="flex">
-
-
-<div>
   
 [![](https://visitcount.itsvg.in/api?id=shivaa003&icon=0&color=1)](https://visitcount.itsvg.in)
 
