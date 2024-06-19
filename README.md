@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <div id="badges">
         
-    </a>
   </div>
 <h1>
     Heyy , i am Shiva
